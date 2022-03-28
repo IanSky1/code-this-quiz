@@ -7,7 +7,7 @@
     border: 2px solid purple;
 }
 
-#startTime {
+#startButton {
     background-color: purple;
     margin-left: 33%;
     padding: 15px 32px;
@@ -19,7 +19,7 @@
 float: right;
 }
     
-#questionsDiv {
+#intro {
 margin: 20px;
 }
 
@@ -48,26 +48,17 @@ text-align: center;
 }
 
 button {
-border-radius: 8px;
-}
-
-textarea {
-width: 90%;
-margin: 20px;
+border-radius: 20px;
 }
 
 #Submit {
 background-color: purple;
 margin-left: 33%;
-padding: 15px 32px;
-font-size: 20px;
+padding: 10px 32px;
+font-size: 23px;
 color: white;
 }
-
-label {
-margin-right: 10px;
-}
-        
+      
 input {
 margin-bottom: 20px;
 width: 50%;
